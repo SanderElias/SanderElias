@@ -1,4 +1,4 @@
 # Sander Elias
 
-[![Scully Logo](assets/scullyio-icon.svg)](https://scully.io)
+[![Scully Logo](assets/scullyio-icon.png)](https://scully.io)
 
